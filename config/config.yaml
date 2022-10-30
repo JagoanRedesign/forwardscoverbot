@@ -21,11 +21,11 @@
 
 
 # the token of the bot you get from t.me/botfather (type: str)
-bot_token: "token"
+bot_token: "5773528901:AAGBjw98hgk3deSqHt5d6g97-cGU_r4ntbI"
 
 # the name of the database (type: str)
-db_path: "database/database.db"
+db_path: "-1001851641812"
 
 # a list containing the telegram ids of the admins of the bot (type: ids are int)
 admins: 
-- 1234
+- 1659580762
