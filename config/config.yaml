@@ -1,5 +1,5 @@
 # ForwardsCoverBot - don't let people on telegram forward with your name on the forward label
-# Copyright (C) 2017-2019  Dario <dariomsn@hotmail.it> (github.com/91DarioDev)
+# Copyright (C) 2017-2022  Dario <dariomsn@hotmail.it> (github.com/91DarioDev)
 #
 # ForwardsCoverBot is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published
@@ -21,10 +21,10 @@
 
 
 # the token of the bot you get from t.me/botfather (type: str)
-bot_token: "5773528901:AAGBjw98hgk3deSqHt5d6g97-cGU_r4ntbI"
+bot_token: "5773528901:AAFGN02107RZ5ANKmhmNpELJDBaIFy_R3RQ"
 
 # the name of the database (type: str)
-db_path: "-1001851641812"
+db_path: "database/database.db"
 
 # a list containing the telegram ids of the admins of the bot (type: ids are int)
 admins: 
